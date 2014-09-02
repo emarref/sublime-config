@@ -12,6 +12,7 @@
 	[
 		"Vintage"
 	],
+    "indent": 4,
 	"line_numbers": true,
 	"match_brackets": true,
 	"open_files_in_new_window": true,
@@ -28,6 +29,5 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": false,
-    "indent": 4
+	"word_wrap": false
 }
