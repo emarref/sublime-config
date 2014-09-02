@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"DashDoc",
+		"Function Name Display",
+		"Phpcs",
+		"PhpDoc",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"TrailingSpaces",
+		"VCS Gutter",
+		"Xdebug Client"
+	]
+}
