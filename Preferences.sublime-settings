@@ -1,28 +1,32 @@
 {
-	"color_scheme": "Packages/User/darkula (SL).tmTheme",
-	"remember_open_files": false,
-	"open_files_in_new_window": true,
 	"auto_indent": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-	"trim_automatic_white_space": true,
+	"color_scheme": "Packages/User/darkula (SL).tmTheme",
+	"default_dir": "~/Desktop",
+	"default_line_ending": "unix",
 	"detect_indentation": false,
-    "draw_white_space": "selection",
-    "trim_trailing_white_space_on_save": true,
-    "rulers": [80, 120],
-    "highlight_line": true,
-    "line_numbers": true,
-    "word_wrap": false,
-    "match_brackets": true,
-    "save_on_focus_lost": true,
-    "ensure_newline_at_eof_on_save": true,
-    "fallback_encoding": "UTF-8",
-    "default_line_ending": "unix",
-    "tab_completion": true,
-    "default_dir": "~/Desktop",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_numbers": true,
+	"match_brackets": true,
+	"open_files_in_new_window": true,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
 }
