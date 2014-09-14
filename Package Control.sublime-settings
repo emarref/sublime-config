@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Darkula Color Scheme",
 		"DashDoc",
 		"Function Name Display",
+		"JSONLint",
 		"Phpcs",
 		"PhpDoc",
 		"PlainTasks",
